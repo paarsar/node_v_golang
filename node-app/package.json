@@ -1,0 +1,12 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "test app for node js",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+
+  },
+  "author": "Al Morris",
+  "license": "ISC"
+}
